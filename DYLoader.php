@@ -1,6 +1,6 @@
 <?php
 
-class DULoader {
+class DYLoader {
 	private $link;
 	private $links;
 	private $arr;
